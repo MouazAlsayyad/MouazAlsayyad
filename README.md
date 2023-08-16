@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouazalsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="mouazalsayyad" /> </p>
 
-- 🔭 I’m currently working on **E-commerce APE**
+- 🔭 I’m currently working on **E-commerce API**
 
 - 🌱 I’m currently learning **Express, mongoDB**
 
