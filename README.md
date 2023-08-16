@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MouazAlsayyad
-- 👀 I’m interested in node js and laravel
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in nodeJS
+- 🌱 I’m currently learning nodeJS express.js MongoDB
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
