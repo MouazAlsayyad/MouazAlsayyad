@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **E-commerce API**
 
-- 🌱 I’m currently learning **Express, mongoDB**
+- 🌱 I’m currently learning **NestJs, Express, mongoDB, Prisma, socket.io**
 
-- 💬 Ask me about **js, Express**
+- 💬 Ask me about **js, NestJs, Express**
 
 - 📫 How to reach me **mouazemails@gmail.com**
 
