@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mouazemails@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N_vT18-hd9GajRBRchHDNgeH-mPCUc-J/view?usp=sharing](https://drive.google.com/file/d/1N_vT18-hd9GajRBRchHDNgeH-mPCUc-J/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LZlvj8QRKHdMg1N0NHn6SW7aYH3aym_Z/view?usp=sharing](https://drive.google.com/file/d/1LZlvj8QRKHdMg1N0NHn6SW7aYH3aym_Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
