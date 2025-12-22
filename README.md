@@ -32,7 +32,9 @@
 
 - 🏥 **[Dallah]** - Comprehensive medical laboratory management system built with ABP Framework, Angular, and .NET. Features dispatching, catalog management, finance tracking, and multi-tenant architecture.
 
-- 🏥 **[Dallah]** - Advanced healthcare management platform built with ABP Framework, Angular, and .NET. Includes vehicle management, incident tracking, inspections, and integrated notification systems.
+- 💼 **[ASL Engineered]** - Enhanced accounting system using .NET and ABP Framework with modular architecture. Integrated Salla e-commerce platform for seamless product synchronization and real-time order tracking via Webhooks and OAuth 2.0.
+
+- 🏥 **[Doctor Portal - Nano Health Suite]** - Full Stack Developer role (Sep 2024 – July 2025). Redesigned UI with Angular, optimized Kafka for microservices communication, and refactored codebase using Clean Architecture, SOLID principles, DDD, and ABP Framework with design patterns (Repository, Adapter, Strategy).
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouazalsayyad&show_icons=true&locale=en&layout=compact" alt="mouazalsayyad" /></p>
 
