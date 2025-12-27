@@ -28,7 +28,7 @@
 
 - ☁️ **[Aspire with Clean Architecture](https://github.com/MouazAlsayyad/Aspire-with-Clean-Architecture)** - Modern .NET Aspire application built with Clean Architecture principles. Features JWT authentication with refresh token rotation, RBAC authorization, comprehensive user management, Entity Framework Core, and OpenTelemetry observability.
 
-- 📊 **[Invoice Tracker](https://github.com/mouazalsayyad/InvoiceTracker)** - Full-stack invoice and supplier price tracking system built with Express.js and PostgreSQL. Features price history analysis and BOM cost calculation.
+- 📊 **[Invoice Tracker](https://github.com/MouazAlsayyad/replit-invoice-tracker)** - Full-stack invoice and supplier price tracking system built with Express.js and PostgreSQL. Features price history analysis and BOM cost calculation.
 
 - 🏥 **[Innovamedi]** - Healthcare management solution built with ABP Framework, Angular, and .NET, following Domain-Driven Design principles.
 
